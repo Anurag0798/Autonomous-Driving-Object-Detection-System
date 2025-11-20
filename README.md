@@ -12,8 +12,6 @@ A modular Python project for simulated autonomous driving applications, featurin
   Processes both lane markings and detected objects in one frame, overlaying both visualizations for a complete scene understanding.
 - **Live Webcam or Video File Input:**
   Supports real-time webcam demo and processing of pre-recorded video.
-- **Alerts & Actions:**
-  Beep and save a snapshot when a person ("person" class) is detected in the webcam stream.
 - **Easy Extensibility:**
   Modular design with core functionality separated by file for customization.
 
